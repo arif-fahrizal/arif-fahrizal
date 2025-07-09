@@ -27,9 +27,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=arif-fahrizal&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div style={{ display: flex, flex-wrap:wrap }}>
+  ![](https://github-readme-stats.vercel.app/api?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://nirzak-streak-stats.vercel.app/?user=arif-fahrizal&theme=synthwave&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arif-fahrizal&icon=3&color=0)](https://visitcount.itsvg.in)
