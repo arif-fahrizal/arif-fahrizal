@@ -31,11 +31,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-fahrizal&theme=synthwave&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-fahrizal&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=arif-fahrizal&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arif-fahrizal&icon=5&color=6A0DAD)](https://visitcount.itsvg.in)
