@@ -27,10 +27,22 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center', gap: '1rem' }}>
-  ![](https://github-readme-stats.vercel.app/api?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=arif-fahrizal&theme=synthwave&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', justifyContent: 'center', alignItems: 'center' }}>
+  <img 
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    width="400"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arif-fahrizal&theme=synthwave&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+  <img 
+    width="300"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+    alt="Top Languages" 
+  />
 </div>
 
 ---
