@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-<div style={{ display: flex, flex-wrap:wrap }}>
+<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center', gap: '1rem' }}>
   ![](https://github-readme-stats.vercel.app/api?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
   ![](https://nirzak-streak-stats.vercel.app/?user=arif-fahrizal&theme=synthwave&hide_border=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-fahrizal&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
